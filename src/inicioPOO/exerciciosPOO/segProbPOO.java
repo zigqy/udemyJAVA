@@ -1,4 +1,4 @@
-package inicioPOO;
+package inicioPOO.exerciciosPOO;
 import inicioPOO.entities.Product;
 
 import java.util.Locale;

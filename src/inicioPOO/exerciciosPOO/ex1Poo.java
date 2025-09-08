@@ -1,6 +1,6 @@
-package inicioPOO;
+package inicioPOO.exerciciosPOO;
 import inicioPOO.entities.Rectangle;
-import java.awt.*;
+
 import java.util.Scanner;
 
 public class ex1Poo {
